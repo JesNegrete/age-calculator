@@ -49,7 +49,7 @@ This process makes it so much easier to style.
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
